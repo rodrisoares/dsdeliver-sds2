@@ -23,20 +23,20 @@ public class Product implements Serializable  {
 	private String name;
 	private Double price;
 	private String description;
-	private String imageURI;
+	private String imageUri;
 	
 	public Product() {
 		
 		
 	}
 
-	public Product(Long id, String name, Double price, String description, String imageURI) {
+	public Product(Long id, String name, Double price, String description, String imageUri) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.price = price;
 		this.description = description;
-		this.imageURI = imageURI;
+		this.imageUri = imageUri;
 	}
 
 	public Long getId() {
@@ -71,12 +71,12 @@ public class Product implements Serializable  {
 		this.description = description;
 	}
 
-	public String getImageURI() {
-		return imageURI;
+	public String getImageUri() {
+		return imageUri;
 	}
 
-	public void setImageURI(String imageURI) {
-		this.imageURI = imageURI;
+	public void setImageUri(String imageUri) {
+		this.imageUri = imageUri;
 	}
 
 	@Override
