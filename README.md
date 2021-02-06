@@ -31,16 +31,19 @@
 
 <img alt="Ver Site do projeto" title="Ver Site do projeto" src="https://github.com/rodrisoares/dsdeliver-sds2/blob/main/SDS2_Pizzaria.png" width="680px" />
 
-# [Versão Web] Clique [aqui](https://dsdelivery-rsa.netlify.app/) para ver
-
-# [Versão Mobile]
 
 <h2 align="center">Previews 🖥️📱</h2>
+
+# [Versão Web] Clique [aqui](https://dsdelivery-rsa.netlify.app/) para ver
+<p align="center">
+   <img src="https://cdn.discordapp.com/attachments/787821695486263399/798595629596803092/ezgif-4-eba249d827e4.gif" width="90%" alt="DS Delivery Demo"/>
+</p>
+
+# [Versão Mobile]
 
    <p align="center">
       <img src="https://cdn.discordapp.com/attachments/787821695486263399/798577129536880670/ezgif-6-e90d9d3aa776.gif" width="40%" alt="DS Delivery Demo"/>
    </p>
-
 
 ## Para executar o código da versão mobile pelo computador:
 
